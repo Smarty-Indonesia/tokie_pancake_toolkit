@@ -92,32 +92,32 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/SPYGlobal",
+        href: "https://t.me/TokieGlobal",
       },
       {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/SPYIndonesia",
+        label: "Indonesia",
+        href: "https://t.me/Tokie_Ind",
       },
-      {
-        label: "中文",
-        href: "https://t.me/spy_china",
-      },
+      //{
+      //  label: "中文",
+      //  href: "https://t.me/spy_china",
+      //},
       // {
       //   label: "Tiếng Việt",
       //   href: "https://t.me/PancakeSwapVN",
       // },
-      {
-        label: "India",
-        href: "https://t.me/SPY_india",
-      },
+      //{
+      //  label: "India",
+      //  href: "https://t.me/SPY_india",
+      //},
       // {
       //   label: "русский",
       //   href: "https://t.me/pancakeswap_ru",
       // },
-      {
-        label: "Turkey",
-        href: "https://t.me/spy_turkey",
-      },
+      //{
+      //  label: "Turkey",
+      //  href: "https://t.me/spy_turkey",
+      //},
       // {
       //   label: "Português",
       //   href: "https://t.me/PancakeSwapPortuguese",
@@ -149,11 +149,11 @@ export const socials = [
   //   icon: "Reddit",
   //   href: "https://reddit.com/r/pancakeswap",
   // },
-  {
-    label: "Instagram",
-    icon: "Instagram",
-    href: "https://instagram.com/smartypay",
-  },
+  //{
+  //  label: "Instagram",
+  //  icon: "Instagram",
+  //  href: "https://instagram.com/smartypay",
+  //},
   // {
   //   label: "Github",
   //   icon: "Github",
