@@ -878,7 +878,7 @@ var Icon$16 = function (props) {
 
 var Icon$15 = function (props) {
     return (React__default.createElement(Svg, __assign({ viewBox: "0 0 90 90" }, props),
-        React__default.createElement("image", { height: "90", href: '/images/logo/logo-spy-small.svg' })));
+        React__default.createElement("image", { height: "90", href: '/images/logo/logo.svg' })));
 };
 
 var Icon$14 = function (props) {
@@ -4662,32 +4662,32 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/SPYGlobal",
+                href: "https://t.me/TokieGlobal",
             },
             {
-                label: "Bahasa Indonesia",
-                href: "https://t.me/SPYIndonesia",
+                label: "Indonesia",
+                href: "https://t.me/Tokie_Ind",
             },
-            {
-                label: "中文",
-                href: "https://t.me/spy_china",
-            },
+            //{
+            //  label: "中文",
+            //  href: "https://t.me/spy_china",
+            //},
             // {
             //   label: "Tiếng Việt",
             //   href: "https://t.me/PancakeSwapVN",
             // },
-            {
-                label: "India",
-                href: "https://t.me/SPY_india",
-            },
+            //{
+            //  label: "India",
+            //  href: "https://t.me/SPY_india",
+            //},
             // {
             //   label: "русский",
             //   href: "https://t.me/pancakeswap_ru",
             // },
-            {
-                label: "Turkey",
-                href: "https://t.me/spy_turkey",
-            },
+            //{
+            //  label: "Turkey",
+            //  href: "https://t.me/spy_turkey",
+            //},
             // {
             //   label: "Português",
             //   href: "https://t.me/PancakeSwapPortuguese",
@@ -4719,11 +4719,11 @@ var socials = [
     //   icon: "Reddit",
     //   href: "https://reddit.com/r/pancakeswap",
     // },
-    {
-        label: "Instagram",
-        icon: "Instagram",
-        href: "https://instagram.com/smartypay",
-    },
+    //{
+    //  label: "Instagram",
+    //  icon: "Instagram",
+    //  href: "https://instagram.com/smartypay",
+    //},
     // {
     //   label: "Github",
     //   icon: "Github",
@@ -5227,7 +5227,7 @@ var UserMenu = function (_a) {
         React__default.createElement(StyledUserMenu, __assign({ ref: setTargetRef }, props),
             React__default.createElement(MenuIcon, { avatarSrc: avatarSrc, variant: variant }),
             React__default.createElement(LabelText, { title: text || account }, text || accountEllipsis),
-            React__default.createElement(Text, null, "SPY"),
+            React__default.createElement(Text, null, "TOKIE"),
             React__default.createElement(Icon$1N, { color: "text", width: "24px" })),
         React__default.createElement(Menu, __assign({ style: styles.popper, ref: setTooltipRef }, attributes.popper, { isOpen: isOpen }), children)));
 };
