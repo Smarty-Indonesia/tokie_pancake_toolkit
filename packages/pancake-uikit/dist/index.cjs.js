@@ -4681,14 +4681,14 @@ var BottomNav = function (_a) {
 
 var socials = [
     {
-        label: "Youtube",
-        icon: "Youtube",
-        href: "https://www.youtube.com/channel/UCHqpi6u6SaLb9PCeELuqjYw/",
+        label: "LinkedIn",
+        icon: "LinkedIn",
+        href: "https://www.linkedin.com/in/yantonwirawan/",
     },
     {
         label: "Twitter",
         icon: "Twitter",
-        href: "https://twitter.com/PaySmarty",
+        href: "https://twitter.com/FarmTokie",
     },
     {
         label: "Telegram",
